@@ -24,7 +24,7 @@ pip install biopython
 pip install Squiggle
 ```
 
-![Image] (https://github.com/inDefinate9/DNA-Sequencing/blob/main/3eee0b_fe5700c77ee54081b7ced60a753bd4a3%7Emv2.webp)
+![Image](https://github.com/inDefinate9/DNA-Sequencing/blob/main/3eee0b_fe5700c77ee54081b7ced60a753bd4a3%7Emv2.webp)
 
 DNA sequence data usually are contained in a file format called “fasta” format. Fasta format is simply a single line prefixed by the greater than symbol that contains annotations and another line that contains the sequence:
 
