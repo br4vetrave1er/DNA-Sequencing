@@ -1,5 +1,6 @@
 # DNA Sequencing
 ![Image](https://github.com/inDefinate9/DNA-Sequencing/blob/main/index.png)
+
 DNA is a macromolecule consisting of two strands that twist around a common axis in a shape called a double helix. The double helix looks like a twisted ladder—the rungs of the ladder are composed of pairs of nitrogenous bases (base pairs), and the sides of the ladder are made up of alternating sugar molecules and phosphate groups.
 
 Molecules of DNA range in length from hundreds of thousands to millions of base pairs. The smallest chromosome in the human genome, Chromosome 21, has around 48 million base pairs.
