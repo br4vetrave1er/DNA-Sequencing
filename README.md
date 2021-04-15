@@ -1,5 +1,5 @@
 # DNA Sequencing
-![Image]()
+![Image](https://github.com/inDefinate9/DNA-Sequencing/blob/main/index.png)
 DNA is a macromolecule consisting of two strands that twist around a common axis in a shape called a double helix. The double helix looks like a twisted ladder—the rungs of the ladder are composed of pairs of nitrogenous bases (base pairs), and the sides of the ladder are made up of alternating sugar molecules and phosphate groups.
 
 Molecules of DNA range in length from hundreds of thousands to millions of base pairs. The smallest chromosome in the human genome, Chromosome 21, has around 48 million base pairs.
@@ -24,7 +24,7 @@ pip install biopython
 pip install Squiggle
 ```
 
-![Image] (/home/indefinate/Downloads/DNA-Sequence-Machine-learning-master/3eee0b_fe5700c77ee54081b7ced60a753bd4a3~mv2.webp)
+![Image] (https://github.com/inDefinate9/DNA-Sequencing/blob/main/3eee0b_fe5700c77ee54081b7ced60a753bd4a3%7Emv2.webp)
 
 DNA sequence data usually are contained in a file format called “fasta” format. Fasta format is simply a single line prefixed by the greater than symbol that contains annotations and another line that contains the sequence:
 
